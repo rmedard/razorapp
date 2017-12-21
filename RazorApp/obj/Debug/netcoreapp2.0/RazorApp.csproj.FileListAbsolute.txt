@@ -1,0 +1,10 @@
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\bin\Debug\netcoreapp2.0\RazorApp.deps.json
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\bin\Debug\netcoreapp2.0\RazorApp.runtimeconfig.json
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\bin\Debug\netcoreapp2.0\RazorApp.runtimeconfig.dev.json
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\bin\Debug\netcoreapp2.0\RazorApp.dll
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\bin\Debug\netcoreapp2.0\RazorApp.pdb
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\obj\Debug\netcoreapp2.0\RazorApp.csproj.CoreCompileInputs.cache
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\obj\Debug\netcoreapp2.0\RazorApp.AssemblyInfoInputs.cache
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\obj\Debug\netcoreapp2.0\RazorApp.AssemblyInfo.cs
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\obj\Debug\netcoreapp2.0\RazorApp.dll
+C:\Users\reberme\RiderProjects\RazorApp\RazorApp\obj\Debug\netcoreapp2.0\RazorApp.pdb
