@@ -1,4 +1,4 @@
-﻿namespace RazorApp.Model
+﻿namespace RazorApp.Models
 {
     public class Client : Person
     {

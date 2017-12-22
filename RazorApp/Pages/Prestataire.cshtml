@@ -1,0 +1,40 @@
+﻿@page
+@using RazorApp.Models @*namespace*@
+@model RazorApp.Pages.PrestataireModel
+
+@{
+    <label>@Model.WelcomMessage</label>
+    ViewData["Title"] = "Prestataires";
+}
+
+<div class="container">  
+    <h3>Add Prestataire</h3>  
+    <hr />  
+    <br />  
+    <form method="post">  
+        <div class="row">  
+            <div class="col-md-4">  
+                <label asp-for="Prestataire.FirstName"></label>  
+                <input asp-for="Prestataire.FirstName" class="form-control" />  
+                <span class="alert-danger" asp-validation-for="Prestataire.FirstName"></span>  
+            </div>  
+        </div>  
+        <div class="row">  
+            <div class="col-md-4">  
+                <label asp-for="Prestataire.LastName"></label>  
+                <input asp-for="Prestataire.LastName" class="form-control" />  
+                <span class="alert-danger" asp-validation-for="Prestataire.LastName"></span>  
+            </div>  
+        </div>    
+        <div class="row">  
+            <div class="col-md-4">  
+                <label asp-for="Prestataire.Domaine"></label>  
+                <input asp-for="Prestataire.Domaine" class="form-control" />  
+                <span class="alert-danger" asp-validation-for="Prestataire.Domaine"></span>  
+            </div>  
+        </div>
+        <br />  
+        <input type="submit" value="Save" class="btn btn-primary" />  
+        <a class="btn btn-default" href="/allcustomer">Cancel</a>  
+    </form>  
+</div>  

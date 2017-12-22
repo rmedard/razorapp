@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace RazorApp
+namespace RazorApp.Controllers
 {
     public class PrestatairesCtrl : Controller
     {
